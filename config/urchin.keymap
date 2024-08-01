@@ -230,10 +230,10 @@
         default_layer {
             label = "Base";
             bindings = <
-&tdQ     &tdW     &tdE     &tdR               &tdT         &kp Y    &kp U                 &kp I        &tdO       &tdP
-&kp A    &kp S    &kp D    &kp F              &kp G        &kp H    &kp J                 &kp K        &kp L      &kp SEMI
-&kp Z    &kp X    &kp C    &kp V              &kp B        &kp N    &kp M                 &kp COMMA    &kp DOT    &tdSL
-                           &qt LCTRL SPACE    &lt 1 TAB    &sl 2    &qt LEFT_WIN ENTER
+&tdQ     &tdW     &tdE     &tdR         &tdT         &kp Y    &kp U                 &kp I        &tdO       &tdP
+&kp A    &kp S    &kp D    &kp F        &kp G        &kp H    &kp J                 &kp K        &kp L      &kp SEMI
+&kp Z    &kp X    &kp C    &kp V        &kp B        &kp N    &kp M                 &kp COMMA    &kp DOT    &tdSL
+                           &kp SPACE    &lt 1 TAB    &sl 2    &qt LEFT_WIN ENTER
             >;
         };
 
@@ -242,10 +242,10 @@
         sym_layer {
             label = "Sym.";
             bindings = <
-&tdTL              &td7    &td8    &td9      &kp MINUS     &kp N6       &kp N7      &kp N8       &kp N9           &kp BACKSPACE
-&kp LEFT_SHIFT     &td4    &td5    &td6      &td0          &kp UNDER    &kp UP      &kp EQUAL    &kp PLUS         &kp DELETE
-&kp PRINTSCREEN    &td1    &td2    &td3      &kp PERIOD    &kp LEFT     &kp DOWN    &kp RIGHT    &kp KP_DIVIDE    &kp TILDE
-                                   &trans    &trans        &trans       &trans
+&tdTL             &td7    &td8    &td9      &kp MINUS     &kp N6       &kp N7      &kp N8       &kp N9           &kp BACKSPACE
+&kp LEFT_SHIFT    &td4    &td5    &td6      &td0          &kp UNDER    &kp UP      &kp EQUAL    &kp PLUS         &kp DELETE
+&kp LEFT_WIN      &td1    &td2    &td3      &kp PERIOD    &kp LEFT     &kp DOWN    &kp RIGHT    &kp KP_DIVIDE    &kp TILDE
+                                  &trans    &trans        &trans       &trans
             >;
         };
 
