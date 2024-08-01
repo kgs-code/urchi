@@ -233,7 +233,7 @@
 &tdQ     &tdW     &tdE     &tdR         &tdT         &kp Y    &kp U                 &kp I        &tdO       &tdP
 &kp A    &kp S    &kp D    &kp F        &kp G        &kp H    &kp J                 &kp K        &kp L      &kp SEMI
 &kp Z    &kp X    &kp C    &kp V        &kp B        &kp N    &kp M                 &kp COMMA    &kp DOT    &tdSL
-                           &kp SPACE    &lt 1 TAB    &sl 2    &qt LEFT_WIN ENTER
+                           &kp SPACE    &lt 1 TAB    &mo 2    &qt LEFT_WIN ENTER
             >;
         };
 
