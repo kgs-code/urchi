@@ -199,15 +199,15 @@
         combo_accent {
             timeout-ms = <200>;
             key-positions = <32 33>;
-            bindings = <&mo 3>;
+            bindings = <&to 2>;
         };
 
         // internal-left & external-right thumb keys
 
         combo_sym2 {
             timeout-ms = <200>;
-            key-positions = <31 33>;
-            bindings = <&mo SYM2>;
+            key-positions = <33 32 27>;
+            bindings = <&to 0>;
         };
 
         // both left thumb keys
